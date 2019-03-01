@@ -4,14 +4,14 @@
 
 ---------------------------------
 
-*email:* tanusha_troyanova@mail.ru\
-*tel:*  +375445952292
+*email :* tanusha_troyanova@mail.ru     
+*tel :*  +375445952292
 
 ---------------------------------
 
-*I'm interested in:* front end, web design\
-*I want to progress in:* frontend programming\
-*Hobbies:* music, cycling, painting.
+*I'm interested in :* front end, web design     
+*I want to progress in :* frontend programming      
+*Hobbies :* music, cycling, painting.
 
 ------------------------------------
 ## **SKILLS**
@@ -25,7 +25,7 @@
 -------------------------------------
 ## **EDUCATION**
 
-1. **GOMEL STATE UNIVERSITY FR. SCARYNA**, *Gomel* \
+1. **GOMEL STATE UNIVERSITY FR. SCARYNA**, *Gomel*        
 *Sep 2015 – Aug 2019* |Faculty of Mathematics and Technologies of Programming. Software Engineer
 
 2. **ANDERSEN**, *Gomel*    
@@ -38,7 +38,7 @@
 --------------------------------------------
 ## **Portfolio**
 
-1. **Desctop application for tour firm.**\
+1. **Desctop application for tour firm.**         
 The purpose of this project is to develop a database of a travel company, with the ability to edit all tables and obtain information about the activities of the above-mentioned organization. This client-server application is written in the Microsoft Visual Studio 2017 development environment using C# programming language. The database that is used in the application is implemented in MS SQL Server Management Studio.   
 ### database schema:
 ![database shema](images/2.png)
@@ -48,7 +48,7 @@ The purpose of this project is to develop a database of a travel company, with t
 ![tours form](images/5.png)
 ...
 
-2. **Weather forecast using java script, HTML, CSS.**\
+2. **Weather forecast using java script, HTML, CSS.**          
 Information about weather this app receive from api [openweathermap](https://openweathermap.org/) in json format.
 ![weather forecast](images/6.png)
 
